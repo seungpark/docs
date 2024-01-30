@@ -11,7 +11,8 @@ What is MongoDB?
    MongoDB is a document database designed for ease of application
    development and scaling.
 
-   DOP-4321 - 2
+   DOP-4321 - 3
+   Running with forked repo of gatsby-transformer-sharp. Check logs
 
    You can run MongoDB in the following environments:
 
